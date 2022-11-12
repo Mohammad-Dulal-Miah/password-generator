@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="greeting">Thank you, we will provide best service</string>
+    <string name="passwordGenerator">Password Generator</string>
+    <string name="password">Click this Image to Copy Password</string>
+    <string name="passwordDigit">Your password length:</string>
+    <string name="generate">Generator</string>
+    <string name="upperCaseLetter">UpperCase Letter</string>
+    <string name="lower">LowerCase Letter</string>
+    <string name="symbol">Symbol</string>
+    <string name="digit">Digit</string>
+</resources>
